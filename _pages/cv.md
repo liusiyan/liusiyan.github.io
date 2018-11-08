@@ -20,15 +20,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Graduate Teaching Assistant
+  * Department of Chemical & Petroleum Engineering, KU
+  * Course: C&PE 625 Unconventional Reservoirs
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Graduate Research Assistant
+  * Department of Chemical & Petroleum Engineering, KU
+  * Develop numerical simulation models for understanding low salinity waterflooding mechanism by coupling LBM flow solver Palabos and geochemical solver PHREEQC
+
+* Spring 2018: Graduate Teaching Assistant
+  * Department of Chemical & Petroleum Engineering, KU
+  * Course: C&PE 618 Secondary Recovery
+
+* Summer 2017: Internship
+  * iCPRS LLC, USA
+  * Duties included: Data analysis and reservoir engineering software developing
+
+* Sprint 2014: Internship
+  * Yanchang Petroleum Corporation, China
+  * Duties included: Drilling mornitoring and logging analysis
+
   
 Skills
 ======
