@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geology and resource exploration engineering, Chang'an University, 2011
+* M.S. in Geology and Paleontology, Chang'an University, 2015
+* M.S. in Petroleum Engineering, the University of Kansas, 2017
+* Ph.D in Chemical and Petroleum Engineering, the University of Kansas, 2020 (expected)
 
 Work experience
 ======
