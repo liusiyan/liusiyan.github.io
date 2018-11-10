@@ -4,7 +4,7 @@ collection: teaching
 type: "C&PE 628 Petroleum Engineering Design"
 permalink: /teaching/2017-spring-teaching-1
 venue: "The University of Kansas, Department of Chemical & Petroleum Engineering"
-date: 2017 Spring
+date: 2017-02-01
 location: "Lawrence, USA"
 ---
 
