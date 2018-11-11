@@ -4,7 +4,7 @@ collection: teaching
 type: "C&PE 618 Secondary Recovery"
 permalink: /teaching/2018-spring-teaching-2
 venue: "The University of Kansas, Department of Chemical & Petroleum Engineering"
-date: 2018 Spring
+date: 2018-02-01
 location: "Lawrence, USA"
 ---
 
