@@ -4,7 +4,7 @@ collection: teaching
 type: "C&PE 625 Unconventional Reservoirs"
 permalink: /teaching/2018-fall-teaching-3
 venue: "The University of Kansas, Department of Chemical & Petroleum Engineering"
-date: 2018 Fall
+date: 2018-09-01
 location: "Lawrence, USA"
 ---
 
