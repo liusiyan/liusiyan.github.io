@@ -2,7 +2,7 @@
 title: "A case study on homogeneous and heterogeneous reservoir porous media reconstruction by using generative adversarial networks"
 collection: publications
 permalink: /publication/2018-08-22-Conference-ICAE2018-3
-excerpt: '<b>Siyan Liu</b>, Zhi Zhong, Ali Takbiri-Borujeni, Mohammad Kazemi, Qinwen Fu, Yuhao Yang <i>ICAE 2018.</i>'
+excerpt: <b>Siyan Liu</b>, Zhi Zhong, Ali Takbiri-Borujeni, Mohammad Kazemi, Qinwen Fu, Yuhao Yang <i>ICAE 2018.</i>
 date: 2018-08-22
 venue: '10th International Conference on Applied Energy (ICAE2018)'
 paperurl: 'http://www.siyan.info/files/conference-ICAE2018-3.pdf'
