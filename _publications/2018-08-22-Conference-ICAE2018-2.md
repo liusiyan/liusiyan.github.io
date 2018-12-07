@@ -2,7 +2,7 @@
 title: "Numerical simulation of Water-alternating-gas Process for Optimizing EOR and Carbon Storage"
 collection: publications
 permalink: /publication/2018-08-22-Conference-ICAE2018-2
-excerpt: 'Zhi Zhong, <b>Siyan Liu<b>, Timothy R. Carr, Ali Takbiri-Borujeni, Mohammad Kazemi, Qinwen Fu <i>ICAE 2018.</i>'
+excerpt: 'Zhi Zhong, <b>Siyan Liu</b>, Timothy R. Carr, Ali Takbiri-Borujeni, Mohammad Kazemi, Qinwen Fu. <i>ICAE 2018.</i>'
 date: 2018-08-22
 venue: '10th International Conference on Applied Energy (ICAE2018)'
 paperurl: 'http://www.siyan.info/files/conference-ICAE2018-2.pdf'
