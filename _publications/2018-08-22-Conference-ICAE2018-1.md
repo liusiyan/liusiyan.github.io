@@ -5,7 +5,7 @@ permalink: /publication/2018-08-22-Conference-ICAE2018-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-08-22
 venue: '10th International Conference on Applied Energy (ICAE2018)'
-paperurl: 'http://academicpages.github.io/files/conference-ICAE2018-1.pdf'
+paperurl: 'http://www.siyan.info/files/conference-ICAE2018-1.pdf'
 [//]: # (citation ffffff: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'）
 ---
 ## Abstract
@@ -26,6 +26,6 @@ soaking time anymore. Furthermore, carbon dioxide has high affinity to be adsorb
 hydrocarbon molecules. 
 
 
-[Download paper here](http://academicpages.github.io/files/conference-ICAE2018-1.pdf)
+[Download paper here](http://www.siyan.info/files/conference-ICAE2018-1.pdf)
 
 [//]: # (Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).）
