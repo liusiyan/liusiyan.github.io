@@ -2,12 +2,13 @@
 title: "Molecular Simulation Of Enhanced Oil Recovery In Shale"
 collection: publications
 permalink: /publication/2018-08-22-Conference-ICAE2018-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Ali Takbiri-Borujeni, Mohammad Kazemi, <b>Siyan Liu</b>, Zhi Zhong. <i>ICAE 2018.</i>'
 date: 2018-08-22
 venue: '10th International Conference on Applied Energy (ICAE2018)'
 paperurl: 'http://www.siyan.info/files/conference-ICAE2018-1.pdf'
-citation: 'Ali Takbiri-Borujeni, Mohammad Kazemi, <b>Siyan Liu</b>, Zhi Zhong. <i>ICAE 2018.</i>'
 ---
+'Ali Takbiri-Borujeni, Mohammad Kazemi, <b>Siyan Liu</b>, Zhi Zhong. <i>ICAE 2018.</i>'
+
 ## Abstract
 Enhanced oil recovery (EOR) techniques (miscible/near miscible gas injection, chemical flooding and thermal) aim at increasing
 oil recovery factor, over which that would be achieved from natural depletion and pressure maintenance methods. As we embark
