@@ -7,6 +7,7 @@ date: 2018-11-01
 venue: 'Fuel 2018'
 paperurl: 'https://doi.org/10.1016/j.fuel.2018.05.168'
 ---
+Zhi Zhong, <b>Siyan Liu</b>, Mohammad Kazemi, Timothy R. Carr. <i>Fuel.</i>
 
 ## Abstract
 Dew point pressure, at which the first condensate liquid comes out of solution in gas condensate reservoir, is a vital parameter 
