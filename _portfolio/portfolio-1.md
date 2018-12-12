@@ -1,6 +1,6 @@
 ---
 title: "Research item 1"
-excerpt: "Lattice Boltzmann Method (LBM) single/multi-phase flow simulation in porous media<br/><img src='/images/Fig_27.png', style="max-width: 500px;">   
+excerpt: "Lattice Boltzmann Method (LBM) single/multi-phase flow simulation in porous media<br/><img src='/images/Research_item_1_fig_1_600x410.png'>   
 collection: portfolio
 ---
 
