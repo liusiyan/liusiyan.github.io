@@ -1,6 +1,6 @@
 ---
 title: "Research summary"
-excerpt: "A research summary mindmap 1<br/><img src='/images/500x300.png'>"   
+excerpt: "A research summary mindmap 1<br/>"   
 collection: portfolio
 ---
 
