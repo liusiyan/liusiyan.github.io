@@ -2,9 +2,8 @@
 title: "Application of Neural Networks in Multiphase Flow Through Porous Media: Predicting Capillary Pressure and Relative Permeability Curves"
 collection: publications
 permalink: /publication/2019-01-Journal-JPSE-1
-excerpt: 'Zhi Zhong, <b>Siyan Liu</b>, Mohammad Kazemi, Timothy R. Carr. <i>Submitted to Journal of Petroleum Science and Engineering.</i>'
+excerpt: '<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban.<i> Submitted to Journal of Petroleum Science and Engineering.</i>'
 date: 2019-01-16
-venue: 'JPSE 2019'
 ---
 <b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban. <i>Submitted to Journal of Petroleum Science and Engineering.</i>
 
