@@ -4,7 +4,7 @@ collection: teaching
 type: "C&PE 325 Nemerical Methods and Statistics for Engineers"
 permalink: /teaching/2019-spring-teaching-4
 venue: "The University of Kansas, Department of Chemical & Petroleum Engineering"
-date: 2019-01-01
+date: 2019-01-22
 location: "Lawrence, USA"
 ---
 
