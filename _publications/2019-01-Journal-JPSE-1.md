@@ -1,5 +1,5 @@
 ---
-title: "Application of Neural Networks in Multiphase Flow Through Porous Media: Predicting Capillary Pressure and Relative Permeability Curves"
+title: "Application of Neural Networks in Multiphase Flow Through Porous Media: Predicting Capillary Pressure and Relative Permeability Curves (submitted to Journal of Petroleum Science and Engineering)"
 collection: publications
 permalink: /publication/2019-01-Journal-JPSE-1
 excerpt: '<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban.<i> Submitted to Journal of Petroleum Science and Engineering.</i>'
