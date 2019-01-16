@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant (Incoming Spring 2019 semester)"
+title: "Graduate Teaching Assistant"
 collection: teaching
 type: "C&PE 325 Nemerical Methods and Statistics for Engineers"
 permalink: /teaching/2019-spring-teaching-4
