@@ -3,7 +3,6 @@ title: "Application of Neural Networks in Multiphase Flow Through Porous Media: 
 collection: publications
 permalink: /publication/2019-01-Journal-JPSE-1
 excerpt: '<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban.<i> Submitted to Journal of Petroleum Science and Engineering.</i>'
-date: 2019-01-16
 ---
 <b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban. <i>Submitted to Journal of Petroleum Science and Engineering.</i>
 
