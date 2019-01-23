@@ -23,5 +23,6 @@ Research interests
 5. Electrodynamics 
 6. Computational Fluid Dynamics (CFD)
 7. Lattice Boltzmann Method (LBM)
+8. High performance parallel scientific computing (MPI, CUDA)
 
 
