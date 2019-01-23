@@ -16,10 +16,12 @@ I received another M.S. in geology and paleontology and B.S. in Geology and reso
 
 Research interests
 ======
-1. Pore-scale modeling
-2. Multiphase flow, reactive transport in porous media
-3. Electrodynamics 
-4. Computational Fluid Dynamics (CFD)
-5. Lattice Boltzmann Method (LBM)
-6. Artificial intellegence and related applications
+1. Data analytics for petroleum and reservoir engineering
+2. Artificial intelligence and related engineering applications
+3. Pore-scale modeling
+4. Multiphase flow, reactive transport in porous media
+5. Electrodynamics 
+6. Computational Fluid Dynamics (CFD)
+7. Lattice Boltzmann Method (LBM)
+
 
