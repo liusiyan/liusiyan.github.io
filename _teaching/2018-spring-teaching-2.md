@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant (Spring 2018)"
 collection: teaching
 type: "C&PE 618 Secondary Recovery"
 permalink: /teaching/2018-spring-teaching-2
