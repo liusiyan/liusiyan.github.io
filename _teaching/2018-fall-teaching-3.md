@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant (Fall 2018)"
 collection: teaching
 type: "C&PE 625 Unconventional Reservoirs"
 permalink: /teaching/2018-fall-teaching-3
