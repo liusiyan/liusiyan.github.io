@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant (Spring 2017)"
 collection: teaching
 type: "C&PE 628 Petroleum Engineering Design"
 permalink: /teaching/2017-spring-teaching-1
