@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant (Incoming Spring 2019 semester)"
+title: "Graduate Teaching Assistant (Spring 2019)"
 collection: teaching
 type: "C&PE 325 Nemerical Methods and Statistics for Engineers"
 permalink: /teaching/2019-spring-teaching-4
@@ -14,3 +14,4 @@ numerical integration, and solutions of ordinary differential equations. Statist
 probability and probability distributions, expected value and hypothesis testing, and optimization of single and multiple-variable systems. 
 Implementing numerical algorithms using computer programming will be emphasized, along with the fundamentals of programming, including data typing, branching, 
 and iteration. Applications specific to chemical and petroleum engineering systems will be considered. 
+The fast, easy to use dynamical typed programming language [Julia](https://julialang.org/) will be introduced in this course. 
