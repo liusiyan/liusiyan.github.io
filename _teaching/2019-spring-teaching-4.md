@@ -14,4 +14,4 @@ numerical integration, and solutions of ordinary differential equations. Statist
 probability and probability distributions, expected value and hypothesis testing, and optimization of single and multiple-variable systems. 
 Implementing numerical algorithms using computer programming will be emphasized, along with the fundamentals of programming, including data typing, branching, 
 and iteration. Applications specific to chemical and petroleum engineering systems will be considered. 
-The fast, easy to use dynamical typed programming language [Julia](https://julialang.org/) will be introduced in this course. 
+The fast, easy to use dynamical typed programming language [Julia](https://julialang.org/) (https://julialang.org/) will be introduced in this course. 
