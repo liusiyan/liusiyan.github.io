@@ -27,5 +27,5 @@ soaking time anymore. Furthermore, carbon dioxide has high affinity to be adsorb
 hydrocarbon molecules. 
 
 
-[Download paper here](http://www.siyan.info/files/conference-ICAE2018-1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1876610219305168)
 
