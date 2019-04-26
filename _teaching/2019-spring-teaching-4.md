@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant (Spring 2019)"
 collection: teaching
-type: "C&PE 325 Nemerical Methods and Statistics for Engineers"
+type: "C&PE 325 Numerical Methods and Statistics for Engineers"
 permalink: /teaching/2019-spring-teaching-4
 venue: "The University of Kansas, Department of Chemical & Petroleum Engineering"
 date: 2019-01-22
