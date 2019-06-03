@@ -19,4 +19,4 @@ preprocessing of the input data could significantly impact ANN's predictions. Th
 magnitude faster than conventional direct calculations using a desktop computer with four cores CPU. Such improvement in the speed of calculations becomes significant when dealing with larger models, more dimensions, and/or 
 introducing pore connectivity in 3D. 
 
-[Download paper here](https://doi.org/10.1016/j.fuel.2018.05.168)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0920410519304954)
