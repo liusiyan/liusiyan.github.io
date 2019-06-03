@@ -18,3 +18,5 @@ models can then learn the impact of a wide variety of pore geometries (i.e., sha
 preprocessing of the input data could significantly impact ANN's predictions. The multi-layer perceptron (MLP) neural network with three hidden layers with four outpusts is adequate for predicting capillary pressure and relative permeability curves during drainage. This model is approximately an order of 
 magnitude faster than conventional direct calculations using a desktop computer with four cores CPU. Such improvement in the speed of calculations becomes significant when dealing with larger models, more dimensions, and/or 
 introducing pore connectivity in 3D. 
+
+[Download paper here](https://doi.org/10.1016/j.fuel.2018.05.168)
