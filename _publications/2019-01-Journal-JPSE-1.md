@@ -1,12 +1,12 @@
 ---
-title: "Application of Neural Networks in Multiphase Flow Through Porous Media: Predicting Capillary Pressure and Relative Permeability Curves (In press, Journal of Petroleum Science and Engineering)"
+title: "Application of Neural Networks in Multiphase Flow Through Porous Media: Predicting Capillary Pressure and Relative Permeability Curves. Journal of Petroleum Science and Engineering, Volume 180, September 2019, Page 445-455"
 collection: publications
 permalink: /publication/2019-01-Journal-JPSE-1
-excerpt: '<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban.<i> Journal of Petroleum Science and Engineering, In press.</i>'
+excerpt: '<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban.<i> Journal of Petroleum Science and Engineering, Volume 180, September 2019, Page 445-455.</i>'
 date: 2019-01-16
 paperurl: 'https://doi.org/10.1016/j.petrol.2019.05.041'
 ---
-<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban. <i>In press, Journal of Petroleum Science and Engineering.</i>
+<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban. <i>Journal of Petroleum Science and Engineering, Volume 180, September 2019, Page 445-455.</i>
 
 ## Abstract
 Artificial Neural Networks (ANN) are trained to simulate two-phase capillary pressure and relative permeability data in bundles of capillary tubes with non-uniform arbitrary wettability conditions and cross-sectional shapes of different irregular convex polygons. All polygons with variable number of corners are randomly generated for a given range of inscribed radii, shape, and elongation factors. To generate the data for the training of ANNs, the minimization of Helmholtz free energy and Mayer-Stowe-Princen (MS-P) method are combined to find thermodynamically consistent threshold capillary pressures for two-phase flow. These capillary pressures are then used to 
