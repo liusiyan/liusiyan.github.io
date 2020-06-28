@@ -2,7 +2,7 @@
 title: "Pore-Scale Characterization of Eagle Ford Outcrop and Reservoir Cores with SEM/BSE, EDS, FIB-SEM, and Lattice Boltzmann Simulation"
 collection: publications
 permalink: /publication/2019-09-Conference-SPE_ATCE-1
-excerpt: Sherifa Cudjoe, <b>Siyan Liu</b>, Reza Barati, Franciszek Hasiuk, Robert Goldstein, Jyun-Syung Tsau, Brian Nicoud, Kyle Bradford, Amanda Baldwin,  David Mohrbacher.</i>
+excerpt: Sherifa Cudjoe, <b>Siyan Liu</b>, Reza Barati, Franciszek Hasiuk, Robert Goldstein, Jyun-Syung Tsau, Brian Nicoud, Kyle Bradford, Amanda Baldwin,  David Mohrbacher.
 date: 2019-09-30
 venue: 'SPE Annual Technical Conference and Exhibition, 30 September - 2 October, Calgary, Alberta, Canada'
 paperurl: 'https://www.onepetro.org/conference-paper/SPE-195805-MS'
