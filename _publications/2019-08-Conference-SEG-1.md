@@ -3,7 +3,7 @@ title: "Fast estimation of permeability in sandstones by 3d convolutional neural
 collection: publications
 permalink: /publication/2019-08-Conference-SEG-1
 excerpt: '<b>Siyan Liu</b>, Reza Barati, and Chi Zhang.</i>'
-date: 2019-09-16
+date: 2019-08-16
 venue: 'SEG Technical Program Expanded Abstracts 2019'
 paperurl: 'https://doi.org/10.1190/segam2019-3216569.1'
 ---
