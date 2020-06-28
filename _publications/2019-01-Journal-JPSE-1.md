@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-01-Journal-JPSE-1
 excerpt: '<b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban.<i> Journal of Petroleum Science and Engineering, Volume 180, September 2019, Page 445-455.</i>'
 date: 2019-01-16
+venue: 'Journal of Petroleum Science and Engineering'
 paperurl: 'https://doi.org/10.1016/j.petrol.2019.05.041'
 ---
 <b>Siyan Liu</b>, Arsalan Zolfaghari, Shariar Shaun Sattarin, Amirmasoud Kalantari-Dahaghi, Shahin Negahban. <i>Journal of Petroleum Science and Engineering, Volume 180, September 2019, Page 445-455.</i>
